@@ -1,6 +1,7 @@
 # docker-redis
 [![](https://images.microbadger.com/badges/image/benyoo/redis.svg)](http://microbadger.com/images/benyoo/redis "Get your own image badge on microbadger.com")[![](https://images.microbadger.com/badges/version/benyoo/redis.svg)](http://microbadger.com/images/benyoo/redis "Get your own version badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/benyoo/redis.svg?maxAge=2592000)](https://hub.docker.com/r/benyoo/redis/)[![Docker Automated buil](https://img.shields.io/docker/automated/benyoo/redis.svg?maxAge=2592000)](https://hub.docker.com/r/benyoo/redis/)
 
+## 若不挂在配置文件则使用默认的配置文件
 ## 快速启动
 
 1、使用编译方式启动
